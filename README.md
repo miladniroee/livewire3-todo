@@ -6,6 +6,8 @@
 
 # laravel liwewire 3 todo app
 
+<img src="resources/screenshot/screenshot-2023-08-02.png" alt="Laravel Logo">
+
 ## About
 
 This is a simple todo app built with laravel 10 and livewire 3
