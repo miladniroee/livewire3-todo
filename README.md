@@ -4,7 +4,7 @@
 
 
 
-# laravel liwewire 3 todo app
+# Laravel livewire 3 todo app
 
 <img src="resources/screenshot/screenshot-2023-08-02.png" alt="Laravel Logo">
 
